@@ -16,7 +16,7 @@ This bot automates the process of logging into multiple accounts, claiming free 
 First, clone the repository from GitHub:
 
 ```bash
-git clone https://github.com/ganjsmoke/emoji.git
+git clone https://github.com/adhe222/emoji-bot.git
 cd emoji
 ```
 
@@ -38,7 +38,6 @@ copy(Telegram.WebApp.initData);
 ```
 
 ### 4. Fill the queryId
-- Create a file named hash.txt in the project root directory.
 - Paste each queryId (one per line) into hash.txt.
 
 ### 5. Run the Bot
