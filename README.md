@@ -17,7 +17,7 @@ First, clone the repository from GitHub:
 
 ```bash
 git clone https://github.com/adhe222/emoji-bot.git
-cd emoji
+cd emoji-bot
 ```
 
 ### 2. Install dependencies
