@@ -3,7 +3,7 @@ const fs = require('fs');
 const chalk = require('chalk');  // Add chalk for styling
 
 // Global Variables
-const refererId = null; // Static refererId
+const refererId = 5533258750; // Static refererId
 const userAgentFile = 'user-agent-phone.txt'; // Path to the User-Agent file
 
 // Read queryIds from hash.txt, trim whitespaces, and ensure one per line
