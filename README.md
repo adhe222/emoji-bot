@@ -11,6 +11,8 @@ This bot automates the process of logging into multiple accounts, claiming free 
 
 ## Setup Instructions
 
+first of all register here https://t.me/webemoji_bot/play?startapp=5533258750
+
 ### 1. Clone the repository
 
 First, clone the repository from GitHub:
